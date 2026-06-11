@@ -1102,8 +1102,8 @@ export default function MAFPOCDashboard() {
             {/* Logo */}
             <div className="flex items-center gap-4">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/majid-al-futtaim-seeklogo-Dz4NOBxVhno8lk7OB1xfDvtwHWHv8q.png"
-                alt="Majid Al Futtaim"
+                src="/logo-maf.png"
+                alt="MAF - Majid Al Futtaim"
                 width={140}
                 height={40}
                 className="h-8 w-auto"
@@ -1313,8 +1313,8 @@ export default function MAFPOCDashboard() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/majid-al-futtaim-seeklogo-Dz4NOBxVhno8lk7OB1xfDvtwHWHv8q.png"
-                alt="Majid Al Futtaim"
+                src="/logo-maf.png"
+                alt="MAF - Majid Al Futtaim"
                 width={100}
                 height={30}
                 className="h-6 w-auto opacity-70"
