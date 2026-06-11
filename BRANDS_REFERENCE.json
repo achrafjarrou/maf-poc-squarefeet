@@ -1,0 +1,174 @@
+{
+  "summary": {
+    "total_brands": 10,
+    "hot_brands": 2,
+    "warm_brands": 8,
+    "urgent_priority": 2,
+    "medium_term": 2
+  },
+  "brands": [
+    {
+      "rank": 1,
+      "id": "brand-001",
+      "name": "Zara",
+      "origin": "Spain",
+      "status": "PRESENT",
+      "temperature": "WARM",
+      "scores": {
+        "crs": 86,
+        "mrs": 53,
+        "final": 85
+      },
+      "priority": "Steady expansion",
+      "notes": "14+ MAF malls, category leader"
+    },
+    {
+      "rank": 2,
+      "id": "brand-002",
+      "name": "Swarovski",
+      "origin": "Austria",
+      "status": "PRESENT",
+      "temperature": "WARM",
+      "scores": {
+        "crs": 85,
+        "mrs": 53,
+        "final": 84
+      },
+      "priority": "Account management",
+      "notes": "408 global malls, luxury anchor"
+    },
+    {
+      "rank": 3,
+      "id": "brand-003",
+      "name": "Lush",
+      "origin": "UK",
+      "status": "PRESENT",
+      "temperature": "WARM",
+      "scores": {
+        "crs": 84,
+        "mrs": 53,
+        "final": 83
+      },
+      "priority": "Relationship maintenance",
+      "notes": "11 MAF malls, DNVB success"
+    },
+    {
+      "rank": 4,
+      "id": "brand-004",
+      "name": "Intimissimi",
+      "origin": "Italy",
+      "status": "PRESENT",
+      "temperature": "WARM",
+      "scores": {
+        "crs": 83,
+        "mrs": 53,
+        "final": 82
+      },
+      "priority": "Account management",
+      "notes": "Calzedonia Group, lingerie"
+    },
+    {
+      "rank": 5,
+      "id": "brand-005",
+      "name": "Kiko Milano",
+      "origin": "Italy",
+      "status": "PRESENT",
+      "temperature": "WARM",
+      "scores": {
+        "crs": 82,
+        "mrs": 53,
+        "final": 81
+      },
+      "priority": "Expansion opportunity",
+      "notes": "Accessible luxury beauty, underdeployed"
+    },
+    {
+      "rank": 6,
+      "id": "brand-006",
+      "name": "Byredo",
+      "origin": "Sweden",
+      "status": "REGIONAL",
+      "temperature": "HOT",
+      "scores": {
+        "crs": 88,
+        "mrs": 71,
+        "final": 80
+      },
+      "priority": "URGENT - Outreach within 30 days",
+      "notes": "Ultra-premium fragrance, KSA confirmed, UAE imminent - GOLD OPPORTUNITY"
+    },
+    {
+      "rank": 7,
+      "id": "brand-007",
+      "name": "Rituals",
+      "origin": "Netherlands",
+      "status": "REGIONAL",
+      "temperature": "WARM",
+      "scores": {
+        "crs": 85,
+        "mrs": 71,
+        "final": 79
+      },
+      "priority": "Development opportunity",
+      "notes": "138 global malls, premium wellness"
+    },
+    {
+      "rank": 8,
+      "id": "brand-008",
+      "name": "Aritzia",
+      "origin": "Canada",
+      "status": "INTERNATIONAL",
+      "temperature": "WARM",
+      "scores": {
+        "crs": 78,
+        "mrs": 58,
+        "final": 78
+      },
+      "priority": "Medium-term (Q4 2026)",
+      "notes": "PE-backed, zero GCC, contemporary fashion"
+    },
+    {
+      "rank": 9,
+      "id": "brand-009",
+      "name": "Kayali",
+      "origin": "UAE",
+      "status": "DOMESTIC_ONLY",
+      "temperature": "HOT",
+      "scores": {
+        "crs": 91,
+        "mrs": 100,
+        "final": 91
+      },
+      "priority": "HIGHEST PRIORITY - Outreach within 30 days",
+      "notes": "UAE-born DNVB, 200K+ waitlist, zero stores - ULTIMATE GOLD NUGGET"
+    },
+    {
+      "rank": 10,
+      "id": "brand-010",
+      "name": "Phlur",
+      "origin": "USA",
+      "status": "DOMESTIC_ONLY",
+      "temperature": "WARM",
+      "scores": {
+        "crs": 70,
+        "mrs": 100,
+        "final": 70
+      },
+      "priority": "Medium-term (Q4 2026)",
+      "notes": "Viral DTC fragrance, 200K+ waitlist, zero stores"
+    }
+  ],
+  "market_status_distribution": {
+    "PRESENT": 5,
+    "REGIONAL": 2,
+    "INTERNATIONAL": 1,
+    "DOMESTIC_ONLY": 2
+  },
+  "key_metrics": {
+    "avg_crs": 83.8,
+    "avg_mrs": 71.2,
+    "avg_final": 81.4,
+    "highest_final_score": 91,
+    "lowest_final_score": 70
+  }
+}
