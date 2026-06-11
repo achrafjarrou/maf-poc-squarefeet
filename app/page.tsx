@@ -1107,7 +1107,7 @@ export default function MAFPOCDashboard() {
               />
               <span className="text-gray-300">|</span>
               <h1 className="text-sm font-semibold text-gray-700">
-                Prospect Intelligence POC
+                Top 10 Brand Prospects
               </h1>
             </div>
 

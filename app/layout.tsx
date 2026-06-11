@@ -13,8 +13,8 @@ const dmMono = DM_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'MAF Retail Intelligence | Squarefeet',
-  description: 'Brand Intelligence & Space Matching Platform for Majid Al Futtaim',
+  title: 'MAF Prospect Intelligence | Majid Al Futtaim',
+  description: 'Top 10 Brand Prospects Intelligence Platform - Majid Al Futtaim',
   icons: {
     icon: [
       {
