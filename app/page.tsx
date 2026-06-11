@@ -1099,10 +1099,15 @@ export default function MAFPOCDashboard() {
         <div className="max-w-[1600px] mx-auto px-4 sm:px-6">
           <div className="flex items-center justify-between h-16">
             {/* Logo */}
-            <div className="flex items-center gap-2">
-              <span className="text-xl font-bold text-amber-600">MAF</span>
-              <h1 className="text-lg font-semibold text-gray-900">
-                Top 10 Prospects
+            <div className="flex items-center gap-3">
+              <img 
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/majid-al-futtaim-seeklogo-U91GuC9IEpYjfxu6VAGMy9yMhrQOUr.png"
+                alt="Majid Al Futtaim"
+                className="h-12 w-auto"
+              />
+              <span className="text-gray-300">|</span>
+              <h1 className="text-sm font-semibold text-gray-700">
+                Prospect Intelligence POC
               </h1>
             </div>
 
@@ -1295,8 +1300,17 @@ export default function MAFPOCDashboard() {
       </main>
 
       {/* Footer */}
-      <footer className="border-t border-gray-200 bg-white py-4 text-center text-sm text-gray-600">
-        © 2026 MAF Prospect Intelligence. All rights reserved.
+      <footer className="border-t border-gray-200 bg-white py-6 text-center">
+        <div className="flex items-center justify-center gap-3 mb-3">
+          <img 
+            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/majid-al-futtaim-seeklogo-U91GuC9IEpYjfxu6VAGMy9yMhrQOUr.png"
+            alt="Majid Al Futtaim"
+            className="h-8 w-auto"
+          />
+        </div>
+        <p className="text-sm text-gray-600">
+          © 2026 MAF Prospect Intelligence. All rights reserved.
+        </p>
       </footer>
     </div>
   );
